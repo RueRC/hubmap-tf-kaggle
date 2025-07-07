@@ -36,7 +36,7 @@ Notebooks and dependencies are designed to be compatible with Kaggle's hosted GP
 
 
 
-## Publications
+## Publication
 
  **Segmentation of Multi-Organ Functional Tissue Units Using UNet-EfficientNet-B8**  (https://dl.acm.org/doi/10.1145/3644116.3644158)
 
